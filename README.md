@@ -4,7 +4,13 @@ A universal package manager for every distro, acting like a Windows `.exe` insta
 **Features:**
 - Better UI compared to the old-school Windows installer experience
 - Live, updated system information during installation
-- Custom backend and frontend with support for multiple distros including Arch Linux, Ubuntu, Fedora, FreeBSD, and Debian
+- Custom backend and frontend with support for multiple distros including Arch Linux, Ubuntu, Fedora, FreeBSD, and Debian'
+
+**Usage:**
+Uniman can be used by runnign the following syntax in the terminal:
+`
+python3 uniman.py [PACKAGE-NAME]
+`
 
 **Licensing:**
 This project is licensed under the GNU General Public License (GPL), meaning any forked version must remain free and open source, and must be publicly published on a platform like GitHub for anyone to read and build upon.
